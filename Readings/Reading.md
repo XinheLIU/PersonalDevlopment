@@ -39,6 +39,32 @@ wip
   - [Mythology](#mythology)
 
 
+
+- 产品和商业分析
+    - visual arts
+    - 心理学
+    - 社会心理学
+    - UI设计
+    - 吴晓波 大败局
+    - 详谈：赵鹏
+- 技术
+    - 神经网络与深度学习
+    - 机器学习代码实现（github）
+- 数据分析
+    - 精益数据分析
+    - 猴子
+    - google analytics
+    - 数据思维
+
+君主论—马基雅维利
+2.潜规则—吴思
+1.贫穷的本质
+2.黑天鹅
+3.灰犀牛
+4.事实
+5.自私的基因
+
+
 # Self-Cultivation
 
 ## Self-Management
