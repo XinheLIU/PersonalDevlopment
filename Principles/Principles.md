@@ -1,5 +1,11 @@
 # Principles
 
+
+- 生活
+  - 极简主义
+    - 断舍离
+    - 需要，合适，舒服
+
 * 每个time-block不要超过半个小时 总体不超过一个半小时 以免被随时打断
 
 Mindset -> Principles -> Actions -> Habits -> Abilities											
