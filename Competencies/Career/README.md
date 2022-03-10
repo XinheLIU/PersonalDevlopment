@@ -6,6 +6,7 @@
     - [Work Experience (Overview)](#work-experience-overview)
     - [Education](#education)
   - [ByteDance Experience](#bytedance-experience)
+    - [Responsibilities](#responsibilities)
     - [Job Description](#job-description)
     - [Data Privacy](#data-privacy)
       - [IOS & TF Learning (Deep Learning System)](#ios--tf-learning-deep-learning-system)
@@ -33,23 +34,30 @@
 
 ## ByteDance Experience
 
+### Responsibilities
+
+• Work in a team of ~10 data scientists in the exploration of the structured & unstructured data field
+• Solve ambiguous and complex data questions with automation, statistics and quantitative skills, implement state-of-the-art machine learning methods (eg. Transfer learning, reinforcement learning, active learning) to solve problems in online ads.
+• Model business questions with quantitative goal metrics, provide data driven solutions and recommendations
+• Drive analysis to aid business decisions and the quantification impact of initiatives through scientific approaches (like experimental designs).
+
 ### Job Description
 
 ### Data Privacy
 
-#### IOS & TF Learning (Deep Learning System) 
+#### IOS & TF Learning (Deep Learning System)
 
 ### Ads Strategies
 
-    * Predictive modeling：提前识别vs假设检验 （predictive, explain, simulation )  
-    * cold Start: Bandit & RF Learning 
+    * Predictive modeling：提前识别vs假设检验 （predictive, explain, simulation ) 
+    * cold Start: Bandit & RF Learning
     * 掉量：DML + Anomaly Detection
 
 #### Eco System
 
     * ColdStart Ads head room
-        * Debias & RF Learning 
-    * 投放2.0  生态和长期价值
+        * Debias & RF Learning
+    * 投放2.0 生态和长期价值
 
 ### Ads Ranking Optimization
 
@@ -61,7 +69,7 @@
 ### Auction & Bidding
 
     * 机制设计
-    * 穿山甲一价计费 & 《合适》 & Google 第三方RTB流量上切一价（auction；bidding，etc） 
+    * 穿山甲一价计费 & 《合适》 & Google 第三方RTB流量上切一价（auction；bidding，etc）
 
 ### Online Experiments & Causal Machine Learning 
 
@@ -69,7 +77,7 @@
 
 ### Other Projects: Creative Solutions
 
-    * 归因，uplift modeling（推断uplift；开发frmework） 
+    * 归因，uplift modeling（推断uplift；开发frmework）
     * Black-litterman for 预算分配 Optimization
 
 ## Goldman Sachs Experience
