@@ -1,61 +1,44 @@
-# Principles
-
-
-- 生活
-  - 极简主义
-    - 断舍离
-    - 需要，合适，舒服
-
-* 每个time-block不要超过半个小时 总体不超过一个半小时 以免被随时打断
-
-Mindset -> Principles -> Actions -> Habits -> Abilities											
-Principles	Habits	Practice/Projects/Indicators									
-											
-								Princple	2nd	3rd	Examples
-								1. Eat, Exercise and Good Sleep	weight control		
-								2. Don't have perfectism	Try everything!	Embrace the reality	减肥 small steps 高中 搞竞赛, 没有明确目的/ 上大学 研究生 太过兴趣导向 不好好上课 抑郁 恋爱的故事
-								3. Learn from the Mistakes	Motivate from the Pain	Error Log	
-								4. Focus on What's Important			
-								5. Break your self and open to the world			
-								6. Break down larget goals to small steps			
-								7. Keep Learning			
-								Rebalance and update error logs			
-											
-											
-								It's all about frameworks			
-								eg. relationship - 权威 价值 互相肯定 和dating不一定要成(step into love) 的framework			
-											
-											
-											
-								Error Log			
-								1. Code writing principles	Write the best code you can every time	Checklist Coding/Design pricicples	
-个人能力								2. Checklist on things	eg. Proof read email (data/attachment, lanaguage, cotnent, receipt)	Suppor -key emails, key timing, issues handover, issues follow up	
-Fudamental Characters	Habits	Actions/Training Plan	Related Stories					3. Checklist Networking and follow up	Have long term plan, strategically networking people, have long term plan for career		
-Willingness Power	Weight Control	Lose Weight						4, Weight losss checklist	按时按点吃饭 不要在饿的时候做决定	事先备好healthy food	锻炼前想着“我只是跑十五分钟” -压力管理
-	Deep Work	Tomato Timer Record									
-Communication	Story Telling	Read 5 Story telling books, Practive TED Prsentations									
-		金字塔原则									
-	Empathy and connect to people	Cold Call, Cathup,						执行力 价值来自于行动和自我肯定			
-Learning	Delibrate Practice	Learn new skills, pass exams	高中搞太雜 搞各種數學競賽 不遵循80/20 把試考好原則； 大學沒有在考試一週前好好復習 抓住主線和主要內容 而是練習邊角料								
-	Build Conceputal Framework	Gather infomation, identify newest trend						麦肯锡方法			
-		Make mind map, Link together concepts, identify most major and fundamental concepts						金字塔原理			
-		Prepare and Practice for Exams									
-Plan and Execution	Look at the Big Picture										
-	Think before you do 谋定而后动										
-	Stick and Change to the Plan										
-Common Sense and Intuition	Habits	Actions/Training Plan						陶哲轩 建议			
-Math and Physics								舒适区 痛感			
-Psycology								社交 认识新女生 表白			
-Game Theory								理财 做长期投资 take risk			
-Economics								去健身房 做饭 拒绝别人			
-Engineering	80/20 principle, result orenitend planning							处理职场与伴侣的冲突 conflict			
-								痛感逃避的事情				
-Techonology and Knowledge	Habits	Actions/Training Plan									
-											
-											
-											
-											
-											
-											
-Art and Experience	Habits	Actions/Training Plan									
-Lead to Sucess		Find Role Models, Read good books									
+领导力
+  1. 领导自己 领导身边 家庭 走出困境 达成目标
+    1. 生存 
+    2. 战略
+    3. 多读书 etc
+    4. 交流 识人 管理 etc 研究性
+3. 经典案例 多读多看 作为模拟战争
+  1. 拼多多 
+    1. https://www.youtube.com/watch?v=kUcnQ4zTtCc
+    2. 梁宁
+  2. 美团
+    1.  https://www.youtube.com/watch?v=mzEFW9Kr2Oc
+    2. 千团大战 ganjiawei
+    3. 淘票票 百度糯米 饿了么 美团
+    4. 本地生活 兵家必争
+    5. 抖音外卖和本地生活 字节跳动的商业模式 空战
+    6. 王兴和张一鸣的哲学
+    7. 梁宁
+    8. https://www.youtube.com/watch?v=crgaS55XB3w
+    9. 商业模式 饭店 地推 商户 网络效应。vs 阿里 线下生活场景一站
+  3. 滴滴
+    1. https://www.youtube.com/watch?v=XIa5GF819q8&t=148s
+    2. 野蛮运营 vs 百米 雇托 刷机 乘客加价 利用大雪 vs 摇摇 （真格 红杉） 违规广告 提示卸载
+    3. 绑定腾讯 支付战争 10亿 快滴+阿里 14亿 滴滴+腾讯 华兴资本撮合
+    4. vs Uber Uber在国内烧20多亿 入股Lyft 孙正义撮合
+    5. People：运营和市场出发 柳青 吸引人才 3星期7亿美金融资 库克
+    6. 商业模式：局部网络效应 有风险
+  4. 百度 
+    1. vs google 和yahoo
+      1. 自己内容战略
+      2. 一帆风顺的企业 vs paypal
+    2. 百度出技术 滴滴 字节 为什么？
+  5. 腾讯
+    1. 微信的迭代 微信红包
+  6. 阿里巴巴
+    1. 股权治理 合伙人 薪酬待遇好 组织能力超强
+    2. https://www.youtube.com/watch?v=A5gC3HobZQM&t=63s
+    3. 理想主义 聚拢人才 融资顺利 优秀的创业者稀缺
+    4. “让天下没有难做的生意” 商业模式的开创 + 创业者格局 时势造英雄 
+    5. 马云：组织人才 + 堆资源 （战略布局）+ 设计商业模式 形成正循环；不像近期 具体操作层面 闪电战 agile的商业模式
+4. 初创公司
+  1. 第一创始人 文化 打法
+  2. 第二业务
+ 
