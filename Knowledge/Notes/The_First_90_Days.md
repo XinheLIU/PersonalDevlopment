@@ -1,6 +1,33 @@
 # The First 90 Days
 
 > By Michael D.Watkins
+>
+
+- [The First 90 Days](#the-first-90-days)
+  - [Pitfalls](#pitfalls)
+  - [1. Prepare Yourself](#1-prepare-yourself)
+  - [2. Accelerate Learning](#2-accelerate-learning)
+  - [3. Match Strategy to Situation](#3-match-strategy-to-situation)
+  - [4. Negotiate Success](#4-negotiate-success)
+    - [Do's and Don'ts](#dos-and-donts)
+    - [5 Converstations](#5-converstations)
+      - [Situational Diagonosis Conversation](#situational-diagonosis-conversation)
+      - [Expectation Converstation](#expectation-converstation)
+      - [Resources Converstation](#resources-converstation)
+      - [Style Converstation](#style-converstation)
+      - [Personal Development Converstation](#personal-development-converstation)
+  - [5. Secure Early Wins](#5-secure-early-wins)
+    - [Making waves](#making-waves)
+    - [Starting with the Goal](#starting-with-the-goal)
+    - [Adopting Basic Principles](#adopting-basic-principles)
+    - [Identify Your Early Wins](#identify-your-early-wins)
+    - [Leading Change](#leading-change)
+    - [Aviod Predictable Surprises](#aviod-predictable-surprises)
+  - [6. Achieve Alignment](#6-achieve-alignment)
+  - [7. Build Your Team](#7-build-your-team)
+  - [8. Manage Yourself](#8-manage-yourself)
+  - [9. Accelerate Everyone](#9-accelerate-everyone)
+
 
 ## Pitfalls
 
@@ -142,13 +169,116 @@ What is the situtaion? Once you reach a common unserstand of the situation, thin
 
 #### Style Converstation
 
-
 #### Personal Development Converstation
 
 
 
 ## 5. Secure Early Wins
 
+Early wins execite and energize people and build your personal credibility.
+
+### Making waves
+
+- Each wave of change should consist of distinct phases: learning, designing the change, building support, implementing the change, and observing results.
+- Goal of first wave of change is to secure early wins. The new leader tailors early initiatives to build personal credibility, establish key relationships, and identify and harvest low-hanging fruits. (the highest potential opportunities for short-term improvenemtns in organizational performance.)
+- The second wave typically addresses more fundamental issues of strategy, structure,systems, and skills to reshape the organization : deeper gains in organizational performance are achieved. 
+
+### Starting with the Goal
+
+Early wins must do **double duty**: help you build momentum in the short term and la a foundation for achieving your longer-term business goals. To the greatest extent,
+
+- Focus on business priorities: consistent with your agreed-to goals-what your bosses and key stakeholders expect you to achieve (Timely)
+- Identify and Support Behavioral Changes: help you introduce the new patterns of behavior you need to achieve the goals
+  - Problematic behaviroal pattersn examples
+    - lack of Focus
+      - too many/ not clear priorities
+      - resources spread to thin, too much firefighting
+    - lack of Displine
+      - people exhibit great variation in therir level of performance
+      - employees don't understand the negative results of inconsistency
+      - people make excuses when they don't meet commitments
+    - lack of Innovation
+      - **use internal benchmarks for success**
+      - improvements in products and processes unfold slowly and incrementally
+      - Employees are rewared for maintaining stable performance, not for pushing the enevelop
+    - lack of Teamwork
+      - team members compete with one another and protect turf rather than work together to achieve the goals
+      - people are rewared for creating fiefdoms
+    - lack of Sense of Urgency
+      - team ignore the needs of external and internal customers
+      - complacency regins, revealed beliefs such as "We are the best"; "It doesn't matter if we respond immediately; it won't make a difference"
+
+### Adopting Basic Principles
+
+- Focus on a few promising opportunites
+- Get wins that matter to your boss.
+- Get wins in the right ways.
+  - must not be achieved in manner that seens as manipulative, under-handed, or inconsistent with the culture
+- Take your STARS portfolio into account.
+- Adjust for the culture.
+  - some organizations win must be a visible individual accomplishment, in others team glory is rewarded.
+
+### Identify Your Early Wins
+
+- do in two phases
+  - build your early wins in roughly the first 30 days
+  - and deciding which projects you will launch achieve early performance improvements beyond that
+- Unstand your reputation
+- BUild credibility
+  - demanding but able to be satisfied
+  - accesible but not too familar
+  - decisive but judicious
+    - make low-consequence decisions quick and defer important decisions to when you know enough to make the right call
+  - focused but flexible
+    - zeroing on issues but consulting others and encouraging input
+  - active without causing commotion
+    - make things happen, create momentum, but aviod pushing people to the limit of burnout
+  - willing to make tough calls but hummane
+- Plan to engage
+  - **What key message you want to get accross aboutwho you are and what you represent**? Who are the key audience? (direct reports, other employees, key outside consituencies)
+  - Think about the modes of enagement, how will you introduce youself
+  - identify and act as quicly as you can to remove minor byt persistent irritants. 
+  - keep in mind that effective learning build personal credibility, it;s never a bad thing to be seen as genuinely committed to understanding your new organziation.
+- Write your own story
+  - Look for and leverage teachable moments. (moments that clearly display what you're about) They also model the kinds of behavior you want to encourage.
+- Launch early win projects 
+  - Identify three or four key areas, you will seek to achieve rapid improvement
+  - Translate your goals to projects
+    - Keep your long-term goals in mind
+    - Identify a few promising focal points.
+      - better be improvements can dramatically strength the organization's overall operational or financial performance.
+    - Launch early-win projects
+    - Elevate change agents.
+    - Leverage the early-win projects to introduce new behaviors
+
+
+### Leading Change
+
+- Planing vs Learning
+  - pure plan approach can bring you trouble if any of these not met
+    - awareness. A critical mass of people is aware the need for change.
+    - Diagonosis. you know what needs to be changed and why
+    - Vision. You have a compelling vision and a solid strategy.
+    - Plan. you have the expertise to put together a detailed plan.
+    - Support. you have sufficiently powerful alliances to support implmentation.
+- Get Started to Bahavioral Change
+- Match Strategy to Situation
+
+
+### Aviod Predictable Surprises
+
+Pay attention to identifying time bombs and preventing them from exploding in your face. Make sure crucial information is surfaced and integrated(every organization has information silos)
+
+Key areas:
+
+- The external enviroment.
+  - public opinion, economic conditions, government regulations, etc
+- Customers, markets, competitors, and strategy.
+  - substitutes, new competitors, price war, etc
+- Internal capabilities
+  - process, skills, capabilities that could percipitate a crisis
+- Organizatinal politics.
+  - certain untouchable people, key peer subtly undermining you
 
 ## 6. Achieve Alignment
 
