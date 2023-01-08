@@ -47,10 +47,62 @@
 
 ## 1. Prepare Yourself
 
+Getting Promoted 
+
+- Balance Breadth and Depth
+  - strike the right balance between keeping the wide view and drilling fown into the details.
+- Rethink what you delegate
+  - build a team of competent people you truct
+  - **establish goals and metrics**
+  - **translate high-level goasl into specific responsibilities** for your direct reports, then reinforce them through process
+- Inflence differently
+  - postitional authority becoms less important for pushing agendas forward.
+  - Decisions makings become more political (less about authority, more about influnce)
+    - Your ability to identify "right" answers based soley on data ana analysis declines correspondingly. Decisions are more shaped by others' expert judgements and who trusts whom, as well as** by networks of mutual support.**
+    - Others playes become more capable and have stonger egos
+- Communicate more fomally
+  - create new communication channels to stay connected with what is happening and where action is.
+  - build direct contact to customers and front-line employees.
+  - Your direct reports should play a greater rols in communicating your vision and ensuring the spread of greater information
+- Exhibit the Right Presence
+  - mounting pressure to exhibit the right kind of leadership presence at all times.
+    - observe what does a leader look like at you new level in the hierarchy? How does he act? 
+    - What kind of new personal **leadership brand** you should have? How will you make it your own
+
+Onboarding into a New Company
+
 - Business Orientation
+  - learning the company as a whole, not just the part you're operating
+  - Think beyond the financials, products and strategies
+  - Learn about the products and brands you will be supporting
+  - Focus also on understanding the operating models, planning and performance evaluation system, talent management systems
+    - they often powerfully influence how you can most effecitvely have an impact
 - Stakeholder Connection
+  - identify key stakehoders and building product working relationships.
+  - build with peers and key constituencies outside the new leader's immediate organization.
 - Expectation Alignment
+  - check and recheck expectations formally befor you join.
+  - new hires have a tendency to believe they have more latitudes to make changes than is actually the case.
+  - understand and factor in the expecations of key consituencies
 - Cultural Adaptation
+  - how culture is overall and how it's manifested in the organization or unit you're joining
+  - Culture pyramid
+    - Visible : symbols and languages
+    - Norms and Patterns of behavior (Cultural Norms)
+      - Influence. how people support important initiatives
+      - Meetings. how they view meetings (discussion or ramp-up?)
+      - Execution. when to get things done, which is more important, a deep understanding of the process or **finding the right people**?
+      - Conflict. how they handle conflicts
+      - Recognition. how they win recognition of their accomptions
+      - End vs Means. Are there restrictions on how you achieve results?
+    - Hidden: Fundemental **assumptions** and **values**
+      - if power is distributed based on positions
+      - authority vs seniority?
+      - operate on consensus, or ability to persuade is a key?
+      - political networks, expecations
+
+
+Preparing Yourself
 
 ## 2. Accelerate Learning
 
