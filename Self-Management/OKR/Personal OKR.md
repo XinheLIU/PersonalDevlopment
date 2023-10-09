@@ -14,3 +14,14 @@
   - KR1: Order & Control
   - KR2: Relationships
   - KR3: body health & weight
+
+## Reference
+
+- 《做最好的自己》李开复
+- 《格局》《态度》《见识》吴军
+- 《超级个体》《跃迁》古典
+- [Rich Dad Poor Dad](https://en.wikipedia.org/wiki/Rich_Dad_Poor_Dad) written by Robert T. Kiyosaki and Sharon Lechter.
+- Principles, Ray Dalio
+- Inner Mastery, Outer Impact
+- [Amanack of Naval Ravikant](https://www.navalmanack.com/)
+- 《有限游戏和无限游戏》
